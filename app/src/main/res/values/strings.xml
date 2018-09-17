@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Tip Calculator</string>
+    <string name="amountEditText">Enter Amount</string>
+    <string name="percentTextView">15%</string>
+    <string name="tipLabelTextView">Tip</string>
+    <string name="totalLabelTextView">Total</string>
+</resources>
